@@ -11,9 +11,9 @@ function App() {
 		<div className="App">
 			{/* <DocTitleOne /> */}
 			{/* <DocTitleTwo /> */}
-			{/* <CounterOne /> */}
+			<CounterOne />
 			{/* <CounterTwo /> */}
-			<UserForm />
+			{/* <UserForm /> */}
 		</div>
 	)
 }
